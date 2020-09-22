@@ -1,4 +1,6 @@
-db-first
+
+
+
 Sviluppare una tabella che riguarda le auto di un concessionario di auto usate.
 La seguente tabella dovrà contenere i dati che possono servire al gestore di attività.
 Pensate prima ai campi che servono,
@@ -32,3 +34,13 @@ Colore                varchar(20)
 Disponibilità         Boolean TINYINT           DEFAULT(0)
 
 Foto                  Boolean TINYINT           DEFAULT(0)
+
+
+
+
+
+
+
+
+
+
